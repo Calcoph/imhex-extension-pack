@@ -2,7 +2,7 @@
     "name": "imhex-extension-pack",
     "displayName": "ImHex Extension Pack",
     "description": "Extension pack contains syntax highlighting for ImHex's  patterns language and themes imitating ImHex",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.69.0"
     },
