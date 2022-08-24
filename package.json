@@ -14,7 +14,8 @@
     },
     "extensionPack": [ 
         "calcoph.imhex-theme",
-        "calcoph.vscode-hexpat"
+        "calcoph.vscode-hexpat",
+        "calcoph.hexpat-language-server"
     ],
     "publisher": "calcoph",
     "icon": "icon.png"
